@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="logos">
+    <file>lib/libPyqt/PyqtImg/logos/logoESPE.png</file>
+    <file>lib/libPyqt/PyqtImg/logos/logoMKT.png</file>
+  </qresource>
+  <qresource prefix="teclas">
+    <file>lib/libPyqt/PyqtImg/teclas/tia.jpg</file>
+    <file>lib/libPyqt/PyqtImg/teclas/ta.jpg</file>
+    <file>lib/libPyqt/PyqtImg/teclas/tb.jpg</file>
+    <file>lib/libPyqt/PyqtImg/teclas/td.jpg</file>
+    <file>lib/libPyqt/PyqtImg/teclas/tda.jpg</file>
+    <file>lib/libPyqt/PyqtImg/teclas/tah.jpg</file>
+    <file>lib/libPyqt/PyqtImg/teclas/tga.jpg</file>
+    <file>lib/libPyqt/PyqtImg/teclas/tgc.jpg</file>
+    <file>lib/libPyqt/PyqtImg/teclas/th.jpg</file>
+    <file>lib/libPyqt/PyqtImg/teclas/tdb.jpg</file>
+    <file>lib/libPyqt/PyqtImg/teclas/ti.jpg</file>
+    <file>lib/libPyqt/PyqtImg/teclas/tib.jpg</file>
+  </qresource>
+</RCC>
